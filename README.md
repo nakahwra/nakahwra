@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 hi there
+welcome to my profile, im φhilia, a software engineer from brazil 🇧🇷
+
+- 💼 front-end dev @ [Plurall](https://www.plurall.net/)
+- 🏗️ working with react.js & typescript
+- 🔨 other tools: svelte, tailwind
+- 🗣️ languages: 🇧🇷 🇬🇧 🇯🇵 & learning 🇨🇳
+- 📫 reach me: nakahwra@gmail.com
 
 <!--
 **nakahwra/nakahwra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
