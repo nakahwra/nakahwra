@@ -3,7 +3,7 @@ welcome to my profile, im φhilia, a software engineer from brazil 🇧🇷
 
 - 💼 front-end dev @ [Plurall](https://www.plurall.net/)
 - 🏗️ working with react.js & typescript
-- 🔨 other tools: svelte, tailwind
+- 🔨 other tools: svelte, tailwind & linux 🐧
 - 🗣️ languages: 🇧🇷 🇬🇧 🇯🇵 & learning 🇨🇳
 - 📫 reach me: nakahwra@gmail.com
 
